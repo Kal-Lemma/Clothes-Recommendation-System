@@ -25,5 +25,6 @@ Best Model performance using Neighbor-Based methods was KNN_Baseline with Cosine
 ![Screen Shot 2019-09-05 at 1.02.20 PM](https://github.com/klemma14/Clothes-Recommendation-System/blob/master/Data-Visuals/Screen%20Shot%202019-09-05%20at%201.02.20%20PM.png)
 * Model-Based Approach: GridSearch to find best parameters for SVD, changing our n_factors (10, 20, 30, 50, 100) and reg_all (0.2, 0.4, 0.6, 0.7).
 Using different Optimal Parameters from our gridsearch to train SVD.
+
 ![Screen Shot 2019-09-05 at 1.02.34 PM](https://github.com/klemma14/Clothes-Recommendation-System/blob/master/Data-Visuals/Screen%20Shot%202019-09-05%20at%201.02.34%20PM.png)
 ## Next Steps
