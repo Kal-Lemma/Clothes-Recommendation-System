@@ -28,3 +28,4 @@ Using different Optimal Parameters from our gridsearch to train SVD.
 
 ![Screen Shot 2019-09-05 at 1.02.34 PM](https://github.com/klemma14/Clothes-Recommendation-System/blob/master/Data-Visuals/Screen%20Shot%202019-09-05%20at%201.02.34%20PM.png)
 ## Next Steps
+* Since our dataset only included item id numbers, not item names themselves, I plan to use NLP on the reviews column to search for key words for the name of the items. I may also just scrape the online item ids from websites the data was found on, then just match ids with name of item, which will allow the ability to see what the recommendation system is suggesting. 
